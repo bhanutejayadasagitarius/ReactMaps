@@ -1,0 +1,62 @@
+.my-label {
+  /* display: flex; */
+  /* flex-direction: column; */
+  position: relative;
+  /* width: 100%; */
+  height: auto;
+  min-height: 100px;
+  min-width: 416px;
+  border: 1px solid lightgrey;
+  background-color: white;
+  font-size: 15px;
+  padding: 0.5rem;
+  color: rgb(90, 88, 88);
+  /* box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.5); */
+  box-sizing: border-box;
+}
+
+.my-label::after {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  /* border-top: 1px solid lightgrey; */
+  /* border-left: 1px solid lightgrey; */
+  border-bottom: 1px solid lightgrey;
+  border-right: 1px solid lightgrey;
+  top: 100%;
+  left: 50%;
+  margin-left: -10px;
+  content: "";
+  transform: rotate(45deg);
+  margin-top: -10px;
+  background-color: white;
+}
+
+.my-label .heading {
+  font-size: 17px;
+  font-weight: 700;
+  color: black;
+}
+
+.my-label .designation {
+  font-size: 16px;
+  font-weight: 410;
+}
+
+.border-right {
+  border-right: 2px solid black;
+}
+
+.light-grey {
+  color: lightgrey;
+}
+
+.black {
+  color: black;
+}
+
+.my-line {
+  color: darkgray;
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+}

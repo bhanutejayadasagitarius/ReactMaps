@@ -1,0 +1,107 @@
+{
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Yuabin Chen",
+      "designation": "Oncologist, South Bend, IL",
+      "office": "Illinois State Hospital",
+      "distance": "14",
+      "tier": "4",
+      "programsFacilitated": "6",
+      "daysSinceLastSpoke": "288",
+      "hcpPotential": "78",
+      "topicPotential": "12",
+      "relevantResearch": "32",
+      "location": {
+        "lat": 41.896266,
+        "lng": -87.646417
+      }
+    },
+    {
+      "id": 2,
+      "name": "Mike Sherman",
+      "designation": "Allergist, South Park, IL",
+      "office": "South State Hospital",
+      "distance": "10",
+      "tier": "1",
+      "programsFacilitated": "1",
+      "daysSinceLastSpoke": "699",
+      "hcpPotential": "33",
+      "topicPotential": "69",
+      "relevantResearch": "90",
+      "location": {
+        "lat": 41.566466,
+        "lng": -87.385302
+      }
+    },
+    {
+      "id": 3,
+      "name": "Jon Jospeph Nemunanitis",
+      "designation": "Cardiovascular Surgeon, Green Lane, IL",
+      "office": "Rainbow Hospital",
+      "distance": "18",
+      "tier": "2",
+      "programsFacilitated": "8",
+      "daysSinceLastSpoke": "122",
+      "hcpPotential": "67",
+      "topicPotential": "89",
+      "relevantResearch": "85",
+      "location": {
+        "lat": 42.173172,
+        "lng": -88.106062
+      }
+    },
+    {
+      "id": 4,
+      "name": "Shubham Singh",
+      "designation": "Cardiologist, Lewis Lane, IL",
+      "office": "Embassy International Hospital",
+      "distance": "8",
+      "tier": "3",
+      "programsFacilitated": "3",
+      "daysSinceLastSpoke": "34",
+      "hcpPotential": "80",
+      "topicPotential": "88",
+      "relevantResearch": "98",
+      "location": {
+        "lat": 41.673756,
+        "lng": -88.039548
+      }
+    },
+    {
+      "id": 5,
+      "name": "Mike Sherman",
+      "designation": "Oncologist, South Bend, IL",
+      "office": "Illinois State Hospital",
+      "distance": "14",
+      "tier": "4",
+      "programsFacilitated": "6",
+      "daysSinceLastSpoke": "288",
+      "hcpPotential": "78",
+      "topicPotential": "26",
+      "relevantResearch": "55",
+      "location": {
+        "lat": 41.673724,
+        "lng": -87.924469
+      }
+    },
+    {
+      "id": 6,
+      "name": "bhanu",
+      "designation": "Oncologist, South Bend, IL",
+      "office": "Illinois State Hospital",
+      "distance": "14",
+      "tier": "4",
+      "programsFacilitated": "6",
+      "daysSinceLastSpoke": "288",
+      "hcpPotential": "78",
+      "topicPotential": "26",
+      "relevantResearch": "55",
+      "location":{
+        "lat":18.6537,
+        "lng":77.89369999999997
+      }
+    }
+
+  ]
+}
